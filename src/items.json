@@ -1,0 +1,18 @@
+{
+  "Leather": "clothes",
+  "Linen": "clothes",
+  "Silk": "clothes",
+  "Wool": "clothes",
+  "Cooper": "metals",
+  "Gold": "metals",
+  "Iron": "metals",
+  "Silver": "metals",
+  "Axe": "weapons",
+  "Dagger":"weapons",
+  "Mace":"weapons",
+  "Sword":"weapons",
+  "Cherry Blossom":"herbs",
+  "Marigold":"herbs",
+  "Rose":"herbs",
+  "Seaweed":"herbs"
+}
